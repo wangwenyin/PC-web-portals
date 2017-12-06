@@ -8,4 +8,5 @@ PC门户和移动营销场景项目里主要用到H5和CSS3的一些新的特性
 ■滚轮事件兼容处理实现滚动换屏。
 ■利用canvas实现气泡动画和刮刮卡效果。
 
-http://htmlpreview.github.com/?
+http://htmlpreview.github.com/wangwenyin/PC-web-portals/blob/master/index.html
+ 
